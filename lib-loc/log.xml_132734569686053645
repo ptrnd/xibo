@@ -1,0 +1,6 @@
+﻿<trace date="2021-08-15 06:22:33" category="Error"><logdate>2021-08-15 06:22:33</logdate><thread>ScheduleManagerThread</thread><method>ClientInfo - updateStatusFile</method><message>Failed to update status file. e = Object reference not set to an instance of an object.</message>
+</trace>
+<trace date="2021-08-15 06:22:43" category="Error"><logdate>2021-08-15 06:22:43</logdate><thread>ScheduleManagerThread</thread><method>ClientInfo - updateStatusFile</method><message>Failed to update status file. e = Object reference not set to an instance of an object.</message>
+</trace>
+<trace date="2021-08-15 06:22:47" category="Error"><logdate>2021-08-15 06:22:47</logdate><thread></thread><method>Main</method><message>Unhandled Exception: The Application object is being shut down.</message>
+</trace>

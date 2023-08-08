@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Xibo Open Source Digital Signage</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=[[ViewPortWidth]]" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!-- Copyright 2006-2020 Xibo Signage Ltd. Part of the Xibo Open Source Digital Signage Solution. Released under the AGPLv3 or later. -->
+    <style type="text/css">
+        body {
+            margin: 0;
+            overflow: hidden;
+            font-family: sans-serif, Arial, Verdana, "Trebuchet MS";
+        }
+        h1, h2, h3, h4, p {
+            margin-top: 0;
+        }
+        #iframe {
+            border: 0;
+        }
+        .cycle-slide p, p.cycle-slide {
+            margin-bottom:0;
+        }
+    </style>
+    <style type="text/css">h3 {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}</style>
+<link href="fonts.css" rel="stylesheet" media="screen" />
+
+    
+</head>
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<!--[if IE 7 ]><body class="ie7"><![endif]-->
+<!--[if IE 8 ]><body class="ie8"><![endif]-->
+<!--[if IE 9 ]><body class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><body><!--<![endif]-->
+<div id="content"><h3>Jadwal Piket</h3>
+</div>
+</body>
+<script type="text/javascript">var options = {"originalWidth":"520","originalHeight":"157"}; var items = {};</script>
+<script type="text/javascript" src="jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="xibo-layout-scaler.js"></script>
+<script type="text/javascript" src="xibo-image-render.js"></script>
+
+<script type="text/javascript">
+                $(document).ready(function() { if(typeof EmbedInit === "function"){ EmbedInit(); } });
+                $("body").find("img").xiboImageRender(options);
+            </script>
+
+</html>
+

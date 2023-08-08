@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<schedule generated="2021-08-06 10:31:06" filterFrom="2021-08-06 10:00:00" filterTo="2021-08-08 10:00:00">
+  <default file="13"/>
+  <dependants>
+    <file>jquery-1.11.1.min.js</file>
+    <file>moment.js</file>
+    <file>xibo-layout-scaler.js</file>
+    <file>xibo-text-render.js</file>
+    <file>Chart.min.js</file>
+    <file>jquery-cycle-2.1.6.min.js</file>
+    <file>flipclock.min.js</file>
+    <file>xibo-countdown-render.js</file>
+    <file>bootstrap.min.css</file>
+    <file>jquery.marquee.min.js</file>
+    <file>xibo-image-render.js</file>
+    <file>xibo-dataset-render.js</file>
+    <file>15.otf</file>
+    <file>16.otf</file>
+    <file>17.ttf</file>
+    <file>18.ttf</file>
+    <file>19.otf</file>
+    <file>pdf.js</file>
+    <file>pdf.worker.js</file>
+    <file>compatibility.js</file>
+    <file>xibo-webpage-render.js</file>
+  </dependants>
+</schedule>

@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Xibo Open Source Digital Signage</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=965" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!-- Copyright 2006-2020 Xibo Signage Ltd. Part of the Xibo Open Source Digital Signage Solution. Released under the AGPLv3 or later. -->
+    <style type="text/css">
+        body {
+            margin: 0;
+            overflow: hidden;
+            font-family: sans-serif, Arial, Verdana, "Trebuchet MS";
+        }
+        h1, h2, h3, h4, p {
+            margin-top: 0;
+        }
+        #iframe {
+            border: 0;
+        }
+        .cycle-slide p, p.cycle-slide {
+            margin-bottom:0;
+        }
+    </style>
+    
+    <link href="/xibo/web/library/fontcss" rel="stylesheet" media="screen"><style type="text/css"></style><style type="text/css">@import url('https://fonts.googleapis.com/css2 family=Inter&display=swap');
+
+table.DataSetTable {
+  font-family: "Inter", sans-serif;  
+  width:100%;
+  border-collapse:collapse;
+}
+
+tr.HeaderRow {
+  font-size:40pt;
+  text-align:center;
+  padding: 10px auto;
+  background-color:#009051;
+  color:#ffffff;
+}
+
+tr#row_1 { 
+  color:#000000;
+  background-color:#EAF2D3;
+}
+
+td#col_1 {
+  color:#000000;
+  background-color:#EAF2D3;
+}
+
+td.DataSetColumn {
+  color: black;
+  font-size: 24pt;
+  background-color:#EAF2D3;
+  border:1px solid #98bf21
+}
+
+tr.DataSetRow {
+  text-align: center;
+  color: #000000;
+  background-color: #EAF2D3;
+  border: 1px solid #98bf21
+  padding-top: 5px;
+  padding-bottom: 4px;
+}
+
+th.DataSetColumnHeaderCell {
+  font-size:1em;
+  border:2px solid #ffdd21;
+  padding:3px 7px 2px 7px;
+}
+
+span#1_1 {
+
+}
+
+span.DataSetColumnSpan {
+
+}table.DataSetTable.cycle-slide { display: table !important; }</style>
+</head>
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<!--[if IE 7 ]><body class="ie7"><![endif]-->
+<!--[if IE 8 ]><body class="ie8"><![endif]-->
+<!--[if IE 9 ]><body class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><body><!--<![endif]-->
+<div id="content"><div id="DataSetTableContainer" totalRows="1" totalPages="1"><table class="DataSetTable"><thead> <tr class="HeaderRow"><th class="DataSetColumnHeaderCell">Waktu</th><th class="DataSetColumnHeaderCell">Kegiatan</th><th class="DataSetColumnHeaderCell">Keterangan</th> </tr></thead><tbody><tr class="DataSetRow DataSetRowOdd" id="row_1"><td class="DataSetColumn DataSetColumn_1" id="column_2"><span class="DataSetCellSpan DataSetCellSpan_1_1" id="span_1_2">Selasa, 10-08-2021 08:00</span></td><td class="DataSetColumn DataSetColumn_2" id="column_3"><span class="DataSetCellSpan DataSetCellSpan_1_2" id="span_1_3">Seminar</span></td><td class="DataSetColumn DataSetColumn_3" id="column_4"><span class="DataSetCellSpan DataSetCellSpan_1_3" id="span_1_4"></span></td></tr></tbody></table></div></div>
+</body>
+<script type="text/javascript" src="/xibo/web/library/download/3?preview=1"></script><script type="text/javascript" src="/xibo/web/library/download/8?preview=1"></script><script type="text/javascript" src="/xibo/web/library/download/5?preview=1"></script><script type="text/javascript" src="/xibo/web/library/download/14?preview=1"></script><script type="text/javascript" src="/xibo/web/library/download/13?preview=1"></script><script type="text/javascript">   var options = {"type":"datasetview","duration":60,"originalWidth":"965","originalHeight":"530","rowsPerPage":0,"durationIsPerItem":false};   $(document).ready(function() {        $("#DataSetTableContainer").dataSetRender(options); $("body").xiboLayoutScaler(options); $("#DataSetTableContainer").find("img").xiboImageRender(options);    }); WebFontConfig = {
+  google: {
+    families: ['Inter:400']
+  }
+};
+
+(function(d) {
+  var wf = d.createElement('script'), s = d.scripts[0];
+  wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+  wf.async = true;
+  s.parentNode.insertBefore(wf, s);
+})(document);</script>
+</html>
+<!-- NUMITEMS=1 -->
+<!-- DURATION=60 -->

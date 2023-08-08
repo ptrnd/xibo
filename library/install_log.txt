@@ -1,0 +1,9 @@
+[2021-07-06 23:52:33] INSTALL.INFO: Installer Step 1 [] {"uid":"b356ac3","method":"GET","route":"/"}
+[2021-07-06 23:54:10] INSTALL.INFO: Installer Step 2 [] {"uid":"da1d979","method":"GET","route":"/2"}
+[2021-07-06 23:54:35] INSTALL.INFO: Installer Step 3 [] {"uid":"a0f4d28","method":"POST","route":"/3"}
+[2021-07-06 23:54:35] INSTALL.INFO: Setting unlimited max execution time. [] {"uid":"a0f4d28","method":"POST","route":"/3"}
+[2021-07-06 23:55:58] INSTALL.INFO: Installer Step 4 [] {"uid":"3f37658","method":"GET","route":"/4"}
+[2021-07-06 23:56:17] INSTALL.INFO: Installer Step 5 [] {"uid":"d2bdd50","method":"POST","route":"/5"}
+[2021-07-06 23:56:17] INSTALL.INFO: Installer Step 6 [] {"uid":"5b39b4f","method":"GET","route":"/6"}
+[2021-07-06 23:56:30] INSTALL.INFO: Installer Step 7 [] {"uid":"2159cb0","method":"POST","route":"/7"}
+[2021-07-06 23:56:30] INSTALL.INFO: Installation Complete. Redirecting to /xibo/web/login [] {"uid":"2159cb0","method":"POST","route":"/7"}
